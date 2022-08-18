@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **UIKit, SwiftUI**
 
-- 📫 How to reach me **vaibhavsha98335@gmail.com**
+- 📫 How to reach me **vaibhavshah98335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
