@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Shah</h1>
 <h3 align="center">iOS Developer from India</h3>
 
-- 🔭 I’m currently working on **Projects for ADG-VIT
+- 🔭 I’m currently working on **Projects for ADG-VIT**
 - 🌱 I’m currently learning **AI/ML and Swift UI**
 
 - 💬 Ask me about **UIKit, SwiftUI**
