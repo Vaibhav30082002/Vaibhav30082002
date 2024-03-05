@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Projects for ADG-VIT**
 - 🌱 I’m currently learning **AI/ML and Swift UI**
 
-- 💬 Ask me about **UIKit, SwiftUI**
+- 💬 Ask me about **iOS Development and .NET Technology**
 
 - 📫 How to reach me **vaibhavshah98335@gmail.com**
 
